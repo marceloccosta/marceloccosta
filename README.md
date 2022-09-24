@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning React Native
 
 
 <!---
