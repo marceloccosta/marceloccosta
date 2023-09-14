@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently working with React Native
+- 🌱 Currently, I'm actively working with React Native
 
 
 <!---
